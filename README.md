@@ -3,7 +3,7 @@
 
 ## How to Use the Course Code
 
-The code used throughout the course has been zipped up and is available for download from this repo. Please download the code to your computer and unzip the contents. When course updates are made the file may be updated and you will need to ensure you download the latest version.
+The code used throughout the course has been zipped up and is available for download from this repo. Please download the code to your computer and unzip the contents. When course updates are made the file may be updated and you will need to ensure you download the latest version from this repo.
 
 ## Course Overview
 
@@ -25,4 +25,4 @@ There are lots of hands-on exercises using multiple Amazon Web Services (AWS) fr
 - Use Cases for IAM Roles
 - AWS Directory Services, Identity Federation, AWS Single Sign-On, Amazon Cognito
 
-Learn more and [enroll in this course](https://digitalcloud.training/courses/aws-identity-management-aws-iam-aws-sso-and-federation/) now to gain in-depth knowledge of identity management, SSO, and federation on AWS
+Learn more and [enroll in this course](https://learn.digitalcloud.training/course/aws-identity-management-with-aws-iam-sso-federation/) now to gain in-depth knowledge of identity management, SSO, and federation on AWS
